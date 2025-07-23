@@ -143,6 +143,10 @@ a{
   width: fit-content;
 
 }
+.dark-badge{
+  background-color: #000;
+  color: #fff;
+}
 
 .sticky-nav{
   position: sticky;
@@ -163,4 +167,8 @@ a{
 }
 .sticky-nav-options button{
   margin-right: 1rem ;
+}
+.nav-item{
+  margin-right: 1rem ;
+
 }
