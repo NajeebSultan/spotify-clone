@@ -221,6 +221,8 @@ a{
 }
 .music-player{
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .album{
@@ -232,4 +234,12 @@ a{
 }
 .controls{
   width: 25%;
+}
+.player-control{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.player-control-icon{
+  height: 1rem;
 }
