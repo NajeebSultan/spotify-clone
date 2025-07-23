@@ -195,8 +195,12 @@ a{
 }
 .card-title{
   font-weight: 600;
+  padding-top: 7px;
+  padding-left:8px ;
 }
 .card-info{
   font-size: 0.85rem;
   opacity:0.8 ;
+  padding-top: 10px;
+  padding-left:8px ;
 }
