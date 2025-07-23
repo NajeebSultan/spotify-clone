@@ -242,4 +242,9 @@ a{
 }
 .player-control-icon{
   height: 1rem;
+  margin-right: 1.75rem;
+  opacity: 0.7;
+}
+.player-control-icon:hover{
+  opacity: 1;
 }
