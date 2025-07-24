@@ -8,11 +8,34 @@ A visually accurate and responsive clone of the Spotify web player UI, built wit
 
 ## Features
 - Modern Spotify-inspired layout
-- Responsive sidebar, player, and controls
+- Sidebar navigation with library and playlists
+- Main content area with album/song cards
+- Responsive sidebar, main content, and player
 - Custom range sliders for progress and volume
 - FontAwesome icons for player controls
 - Album art and song info display
 - Clean, dark theme
+- Fixed music player bar at the bottom
+
+## UI Sections
+
+### Sidebar
+- Quick navigation links (Home, Search, Library)
+- Library section with playlists and options
+- Responsive and collapsible on smaller screens
+
+### Main Content
+- Displays album/song cards with images and info
+- Scrollable area for browsing content
+- Modern card design with hover effects
+
+### Music Player
+- Fixed at the bottom of the page
+- Shows current song info and album art
+- Playback controls (play, pause, next, previous, shuffle, repeat)
+- Progress bar with custom thumb
+- Volume control and additional player options
+- Responsive layout for all screen sizes
 
 ## Screenshots
 ![Screenshot](assets/image.png)
