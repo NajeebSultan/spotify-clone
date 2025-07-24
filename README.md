@@ -39,7 +39,7 @@ A visually accurate and responsive clone of the Spotify web player UI, built wit
 
 ## Demo
 
-![Watch the demo video](assets/video.mp4)
+![video](public/video.gif)
 
 
 ## Getting Started
