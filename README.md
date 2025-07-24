@@ -37,8 +37,13 @@ A visually accurate and responsive clone of the Spotify web player UI, built wit
 - Volume control and additional player options
 - Responsive layout for all screen sizes
 
-## Screenshots
-![Video](video.mp4)
+## Demo
+
+[![Watch the demo video](assets/video-thumbnail.png)](assets/video.mp4)
+
+*Click the image above to watch the demo video.*
+
+Or [download/view the video directly](assets/video.mp4).
 
 ## Getting Started
 
