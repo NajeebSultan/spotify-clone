@@ -15,7 +15,7 @@ A visually accurate and responsive clone of the Spotify web player UI, built wit
 - Clean, dark theme
 
 ## Screenshots
-![Screenshot](assets/card2img.jpeg)
+![Screenshot](assets/image.png)
 
 ## Getting Started
 
