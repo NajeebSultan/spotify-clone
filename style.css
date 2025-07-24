@@ -370,8 +370,8 @@ height: 0.2rem;
   border: 2px solid #fff;    /* White border for contrast */
   border-radius: 50%;
   margin-top: -6px;
-  opacity: 1;             /* Ensure fully opaque */
-  box-shadow: 0 0 6px #1db954, 0 0 2px rgba(0,0,0,0.5); /* More visible */
+  opacity: 1;
+  box-shadow: 0 0 6px #1db954, 0 0 2px rgba(0,0,0,0.5);
 }
 
 /* Remove grey backgrounds */
@@ -474,4 +474,38 @@ input[type="range"] {
 /* Remove extra shadow in Firefox */
 input[type="range"]::-moz-focus-outer {
   border: 0;
+}
+
+.progress-bar::-webkit-slider-thumb,
+.volume-bar::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #39FF14;
+  border: 2px solid #fff;
+  box-shadow: 0 0 6px #39FF14;
+  cursor: pointer;
+}
+
+.progress-bar::-moz-range-thumb,
+.volume-bar::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #39FF14;
+  border: 2px solid #fff;
+  box-shadow: 0 0 6px #39FF14;
+  cursor: pointer;
+}
+
+.progress-bar::-ms-thumb,
+.volume-bar::-ms-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #39FF14;
+  border: 2px solid #fff;
+  box-shadow: 0 0 6px #39FF14;
+  cursor: pointer;
 }
